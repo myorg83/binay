@@ -1,0 +1,31 @@
+Hands-on knowledge on Kubernetes architecture, cluster management and cluster networking. -
+§ Experience on deployments, services, PVs, Ingress, network policies, plugins etc.
+§ Managing Kubernetes clusters lifecycle.
+§ Managing Network Security for containers. Defining policies, quotas, namespaces.
+§ Metrics reporting (HA, usability, scalability, latency, traffic, error, saturation, etc.) for containers using Azure Monitor and Prometheus/Grafana - Monitoring system performance and recommending corrective actions.
+§ Experience in Azure App Service, Azure API management, Azure Serverless technologies , Azure Devops
+Responsibilities
+§ Identification of AKS multi-cluster platform Design & Config requirements
+§ Provisioning of AKS clusters (one NA, one Asia) for multi-tenancy across GWAM
+§ Work closely with Customer team to define tools and technology needed to ensure standardized migration in target state
+§ Create application packages & deploy to AKS using pipeline pattern using GitHub Actions
+§ Recommendation and setup of DR and High-Availability for AKS platform (Active-Active run of applications)
+§ Remediation of any security vulnerabilities relative to AKS platform (not application) standup
+§ Remediation of performance issues that application team finds on an equivalent AKS cluster which was normally performing in on-premise
+
+Azure Developer(Kubernetes)
+
+5+
+
+--------------------------------------
+Key Skillset
+
+§ Hands-on experience in implementation and operation of Docker Containers, Kubernetes,
+§ Experience in networking principles, Kubernetes networking 
+§ Need to have good troubleshooting skills to deal with cluster issues.
+Responsibilities
+§ Developing tools for automated build, test, deployment, and management of the Kubernetes platform.
+§ Managing Network Security for containers. Defining policies, quotas, namespaces.
+§ Setting up Kubernetes ingress controllers & Load Balancers (Nginx), RBAC, Docker containers,
+§ and securing & hardening of images.
+§ Drive and support migration of services to production K8S environments.

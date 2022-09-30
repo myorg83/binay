@@ -1,0 +1,8 @@
+647 457 9801  Keshav Aubeeluck  (213 Berkeley St ON)
+
+CRM Opportunity Id	
+CRM Opportunity Name
+
+P&L name/ Sub unit Name : BFSI Canada 1.4
+
+Will the associate be billable from the day of landing in the destination country (Yes / No) 

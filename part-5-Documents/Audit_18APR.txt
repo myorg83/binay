@@ -1,0 +1,13 @@
+Its Green field Project,
+
+Currently Pre Prod is Live
+
+PROD is in process
+
+SOW is scope limited to set up the secret , Keys managed by customer.
+
+WBA has bill statndard, SSH key wil be published  (Azure AD ) 
+
+Managed Service, managed identity is being used.
+
+ PROD Live by June 2022, Till the 

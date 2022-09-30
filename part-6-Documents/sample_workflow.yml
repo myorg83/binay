@@ -1,0 +1,16 @@
+Github action workflow:
+
+name : test-workflo
+
+on : [push, pull]
+
+jobs:
+  run-shell-command
+    runs-on : ubuntu-latest
+    steps :
+      - name : print name
+        run : echo "hello github"
+      - name : multiline
+        run : |
+          node -v
+          npm -v

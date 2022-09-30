@@ -1,0 +1,16 @@
+Git Cred:
+
+365295
+
+c5kgc32vzdevpk3d34boxm4n6qz3ljbucgdx3kejkmf6ispsaxda
+
+git init
+Initialized empty Git repository in C:/Users/365295/Documents/Git_Azure/.git/
+
+C:\Users\365295\Documents\Git_Azure>git add .
+
+git commit -m "add file" .
+
+C:\Users\365295\Documents\Git_Azure>git remote add origin https://AKS-REPO@dev.azure.com/AKS-REPO/AKS-IAC/_git/AKS-IAC
+
+C:\Users\365295\Documents\Git_Azure>git push -u origin --all

@@ -1,0 +1,79 @@
+82
+1.TCS Proprietary tools like TCS MasterCraft Application LifeCycle Manager, TCS MasterCraft Data Masker , TCS Application Performance Monitor to be implemented after the migration.
+2. CloudFoundry and Diego Container skill set is a rare in Cloud based Application which handles current Project Environment.
+3. Azure Kubernetes used for Hosting microservices running as images as containerized applications , AKS and Kubernets Expert cannot be easily found in the the market.
+4. Expert in implmenting DevOps concepts for end to end automation of coding and maintaining environment with minimal support.
+5. Strong knoledge in implementing log analytics tools and services used for data aggregation purpose and business reporting models.
+6. Github and GIthub action to implement CI/ CD Workflows Integration with Azure Platform (AKS) are not commonly available
+
+84
+1. Employee Brings significant benefits to the MAnulife customer by transforming the current architecture to reduce significant cost spent for the infrastructure and utilise cloud services which is cost and perofrmance optimization.
+2. Employee brings innovative ideas for the Movemnet and migration of Existing Application and Services in a Container Platform which is easy to manage and Cost effective. Instead of traditional Approach to reduce the operational cost and high security.
+3.Employee brings specialized knowledge in the Cloud technologies which will be benefitial for the canadian based clients to refactor the current infrastructure.
+4.This project is belonged to the Insurance markets which influences on the canada society in a positive way of data processing in a secured manner.
+
+80
+1. Expertise in migration of on premise systems to Azure cloud services.
+2. Mutiple Application Build and Deployment automation in Azure platform and Provisioning Cluster to host serveices in Azure.
+3. Extensive knowledge in the Azure kubernetes Services Administration and Monitoring of Infra which is a trending technology with in Microsoft Azure.
+4. Strong knowledge in the cloud applications integration with on premise as like hybrid cloud environment.
+5. Strong knowledge in the Build Pipeline creation and Configuration, Platform Migration and Management of Cluster health throughout the Application cycle. 
+
+85
+1. Project delieveries will be impacted as the employee brings specialized knowledge in the Cloud technologies.
+2. The employee is required to work closely with the customer and his arrival to onshore is key to proceed the project deliverables.
+3.The role played by the employee is crucial and the project timelines will be impacted.
+4. There is currently nobody can perform the empolyee responisibility in the onshore team as he is being onboarded to do data tranformations activites using Azure technologies.
+
+83
+1. Azure Kubernetes Services using Github Action Pipeline and scripting with Powershell/shell programming.
+2. CloudFoundry Skill and Helm Chart to provision the Azure Kubernetes Cluster technologies.
+3. Cloud Architect ,Platform Migration activity and technologies Helm chart , AKS , ACR and analytics.
+4. Integration of variuos applicatons into Azure Kuberenets Services and Associated Databases.
+5. Performance tuing of Azure Kuberenets Services and Cost Optimization based on Infrastucture.
+
+1. Associate brings expertise in Cloud migration of Existing Application and Services in a Container Platform . 
+2. CloudFoundry Skill and Helm Chart to provision the Azure Kubernetes Cluster technologies.
+3. Cloud Architect ,Platform Migration activity and technologies Helm chart , AKS , ACR and analytics. 
+4. Associate having specialized knowledge in the Cloud technologies.
+5. Multi Cloud Exposure and Production Rollout management 
+
+
+1.Azure Kubernetes Services and Provision usinh Helm Charts. 
+2.Cluster Provision, CICD Pipeline Creation.
+3.Platform Migration Activity, Github Action Workflow Creation.
+4.It is microservices based Migration Project whicj requires AKS Cluster Provision and Pipeline Creation to Automate the activity.
+
+1.Associate has working experience on Azure Kubernetes Services and also worked on Microservice Build and Deployment Activities.
+2.Worked on Github and Docker images in multiple technologies.
+3.Azure Web Application and Agent Provisoning
+4.Azure Container Registry
+5.Azure Monitor and App Insight
+6.Code managment and branching strategy
+
+1.Azure DevOps
+2.Cloud Platform Migration Experience
+3.Azure ubernetes Cluster
+4.Github and Github Action
+5.Helm Charts
+6.Docker images
+7.Unix commands
+8.Infra Provison and Health Monitoring
+9.Configuration Management
+
+It is a Migration Project based on cloud Platform. Microsoft Azure is the Platform on which application and Services will be migrated. Existing Cloud Solution need to be gradually Migrated using the Workflows and Pipelines. Azure Kubernetes Cluster Provisioning will be done using Helm Charts. Huge number of Application is targeted to Move from On Prem / Private Cloud to Azure Platform.
+
+1.Work Closely with Client to Understand the Business requirement.
+2.Daily standup Meeting to track the Progress and update status Accordingly.
+3.Perform the application Migration work with as per Client requirement.
+4.Implement the Pipeline to reduce the manual Effort for Migration task.
+5.Manage and creaate Code Branching strategy along with Development team.
+6.Cloud Infra Provison using the Available Tools with Cloud Ops team.
+7.Kubernetes Cluster Provisoning with Helm Charts
+8.AKS Health monitoring and reporting
+9.Co ordinate with Diffrenet teams and management.
+10.Work closely to debug and any traige call on urgent basis.
+
+
+
+Software Engineer with working Experience of More than 10 years, More than 7 years in DevOps that includes Various CI Tools. Multi Cloud platform exposure which will be helpful in Migration. Platform Engineer and Cloud Analyst. Education Master of Computer Application. Microsoft Certified Azure Administrator.

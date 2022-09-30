@@ -1,0 +1,9 @@
+1. Create AKV with new template / or using Azure CLI  
+2. Namespace with RBAC  (with resource Quota)  Naming - BU-Env-App_NAme  (ga-dev-dealgen)
+3. Set up Istio Ingress for GA Dev AKS Cluster (With Certificate after akv2k8s sync )
+
+4. Get SSL Created with Saurabh for Dealgen frontend and Dealgen Svc
+
+5. Work on UAT AKS Cluster Creation  (PROD Subscription)
+
+IMS0172390
