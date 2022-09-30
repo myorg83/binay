@@ -1,0 +1,14 @@
+Mail Aleksey and Andres regarding the Rabbitmq setup using Flux system
+
+Check the subnet Range for Subscription  (For new AKS Creation)
+
+Aslo for the Current existing Subscription.
+
+
+-------------
+Infra Overview KT Session with team members 12:30 to 1:30   
+Topis to cover
+      1. AKS  (Cluster and Containerization)
+      2. Jenkins -> JEnkinsfile- > Terraform Template (main.tf)
+      3. GitOps  (Flux System V2)
+      

@@ -1,0 +1,7 @@
+	
+
+Training Program Name   Employee ID  DMOC Code             Azure Pass 	Promo Code
+
+AZ-104_07Jun2021	365295	    HPOV-YPVA-UVSO-FIPS	   Q0XF7LGUB0DMM9KMVE
+
+AZ-305_11Jul2022	365295	    KJZE-FJBL-GQMK-QZDV	   QCI45TG4Z5RJHQJVKS

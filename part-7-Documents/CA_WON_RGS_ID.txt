@@ -1,0 +1,17 @@
+RGS ID : 7656439
+
+WON : 20270354
+
+Clinet Address : 250 Bloor St E, Toronto, ON M4W 1E5, Canada
+
+Cloud Analysts & Architect
+
+Visa Request No. 7674659
+
+DevOps Engineer, cloud Platform Migration
+
+
+
+DevOps Engineer,Cloud Platform, Microsoft Azure components, Kubernetes Cluster, Github, Github Action, Helm Charts, Docker, Unix commands, Docker, AKS, ACR
+
+Cloud Platform Migration on Azure Kubernetes Services, Cluster Provision, CI/CD Pipeline Creation for Automation, Platform Migration Activity, Github Action Workflow Creation. As it is microservices based Migration Project which requires AKS Cluster Provision and Pipeline Creation to Automate the activity.

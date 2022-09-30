@@ -1,0 +1,6 @@
+1.Calico on istio (rabbitmq ) blocking DB Connection : Egress blocked  (Hardening rules we can check )
+2.Kiali on existing AKS Cluster (try it out)
+3. chase for sso  pocdealgen  (send mail) Helmut
+4. RBAC on New AKS Setup (Work with Aleksey)
+5. AKV Creation per application
+6. Resource and Limit dedcision  (Memory and CPU Units )

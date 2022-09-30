@@ -1,0 +1,101 @@
+Role and Role Binding on Namespace
+Service Principle based on Application
+--------------------- --------------------------------------- Config Server -----------------
+
+1. Every Azure DevOps CI/CD project has it's own Eureka server & config server launched as pod.
+
+2. Config server stores all the content properties(application.properties) required for the application in another
+
+git endpoint named here as "config-repo"
+
+3. Even Eureka client configuration(besically Eureka server endpoint) is also mentioned in in config-repo.
+
+4. So the flow is-
+
+a. Application calls bootstrap.properties or bootstrap.yaml or application.yaml in "resource" folder of the application for Config server details.
+
+Below are few details it needed.
+
+
+
+i. application name: <name of the application in CAPITAL>
+
+##Note, this name should be same as the corresponding property file on config-repo
+
+
+
+ii. label: developement (config-repo branch)
+
+iii. active profile: local/dev/qa etc. ( basically folders for specific property file resides in the config-repo)
+
+iv . application name: <name of the application in CAPITAL>
+
+
+
+b. The label & active profile name can be over written in runtime by mentioning following in the application deployment.yaml file:
+
+env:
+
+- name: _JAVA_OPTIONS
+
+value: -Dspring.profiles.active=dev -Dspring.cloud.config.label=development -Dspring.cloud.config.uri=http://
+
+
+
+c. Sample config-repo: see "config-repo" folder(code) here (it includes edureka client configuration also along with application.properties option)
+
+
+
+d. Sample config server: see "configserver" folder(code)
+
+
+
+e. Sample config client conf in existing app: see "sample-config-client" folder(code) here.
+
+(check bootstrap.properties or bootstrap.yaml or application.yaml in resouces folder in the application)
+
+
+
+f. For Sample Eureka server: see "edureka_server_sample_code" folder here.
+
+
+
+5. To check if configserver works properly OR, application property file: http:////
+
+
+
+6. Everytime you update something in config repo/client application property file refresh config server with a browser hit with:
+
+<application_url:port_no>/actuator/refresh (Single hit for single pod; hit multiple times to update multiple pods of an application, else it won't update)
+
+OR,
+
+As best practice restart pods without changing deployment with this- kubectl rollout restart deployment <your_deployment_name> -n <namespace>
+
+
+
+7. To refresh config repo realtime in a different ingress port see- "Ingress_Controller-MULTIPLE-PORT-SERVICE"
+
+
+
+#=========================================================Extras=======================================================#
+
+
+
+There are multiple ways to configure Eureka & config server | Some extra methods
+
+
+
+Config server conf check (spring boot config server)
+
+https://www.youtube.com/watch?v=gb1i4WyWNK4 (for server)
+
+https://www.youtube.com/watch?v=E2HkL766VHs (for client)
+
+https://www.youtube.com/watch?v=yNnLICy2zk4 (To refresh client to get new values)
+
+Config server:
+
+https://spring.io/guides/gs/centralized-configuration/
+
+https://www.baeldung.com/spring-cloud-configuration
