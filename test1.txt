@@ -1,1 +1,1 @@
-check: ${{TEST_NAME}}
+check:${{TEST_NAME}}
