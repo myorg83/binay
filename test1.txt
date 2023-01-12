@@ -1,2 +1,1 @@
-hi all
-Hellow world!!
+check: ${{TEST_NAME}}
